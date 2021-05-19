@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on anything projects related to data analysis and automation.
 - 🙍🏽‍♂️ Current: Looking for Internship in 2022.
 - ⚡ Hobbies: I love playing videogames and basketball.
-- 📫 How to reach me - [Linkedin](https://www.linkedin.com/in/aravindhan-g-a1130a202),[E-mail](mailto:aravindganpath@gmail.com).
 
 
 ### *Connect with me:*
