@@ -1,5 +1,7 @@
+<h1 align="center"> Hi 👋, I’m @Aravindhan-G.</h1>
+<h4 align="center"> 🚀 Data Scientist ⚛ 🤖.</h4>
+
 ### *About Myself:*
-- 👋 Hi, I’m @Aravindhan-G
 - 👀 I’m interested in Data Analytics 🚀,Machine Learning ⚛, Web-Scrapping and Automation 🤖.
 - 🌱 I’m currently learning Data Science in Coimbatore Institue of Technology.
 - 💞️ I’m looking to collaborate on anything projects related to data analysis and automation.
