@@ -27,7 +27,7 @@
 [<img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">](https://dev.mysql.com/)&ensp;
 [<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">](https://git-scm.com/)&ensp;
 [<img alt="Github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">](https://github.com/)&ensp;
-[<img alt="cpp" width="26px" src="https://isocpp.org/assets/images/cpp_logo.png">](https://isocpp.org/)
+[<img alt="cpp" width="26px" src="https://isocpp.org/assets/images/cpp_logo.png">](https://isocpp.org/)&ensp;
 [<img alt="Scikit Learn" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">](https://scikit-learn.org/stable/)&ensp;
 [<img alt="Tensorflow" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png">](https://www.tensorflow.org/)&ensp;
 
