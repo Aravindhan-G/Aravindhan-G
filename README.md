@@ -47,7 +47,7 @@
 
 ---
 
-[linkedin]: https://www.linkedin.com/in/aravindhan-g-a1130a202
+[linkedin]: https://www.linkedin.com/in/aravindhang
 [instagram]: https://www.instagram.com/_arvndhn_/
 [gmail]: mailto:aravindganpath@gmail.com
 [whatsapp]: https://wa.me/916383980192
