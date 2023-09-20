@@ -14,7 +14,6 @@
 
 ### *Connect with me:*
 [<img align="left" alt="Aravindhan G | LinkedIn" height="30px" src="https://img.icons8.com/doodle/2x/linkedin--v2.png" />][linkedin]
-[<img align="left" alt="Aravindhan G | Instagram" height="30px" src="https://github.com/Aravindhan-G/Aravindhan-G/blob/main/Assets/4103007.png"/>][instagram]
 [<img align="left" alt="Aravindhan G | Whatsapp" height="30px" src="https://img.icons8.com/doodle/2x/whatsapp.png" />][whatsapp]
 [<img align="left" alt="Aravindhan G | Gmail" height="30px" src="https://img.icons8.com/doodle/2x/gmail.png" />][gmail]
 <br />
