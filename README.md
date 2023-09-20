@@ -24,7 +24,6 @@
 
 [<img alt="cpp" width="32px" src="https://isocpp.org/assets/images/cpp_logo.png">](https://isocpp.org/)&ensp;
 [<img alt="python" width="35px" src="https://img.icons8.com/color/240/000000/python.png">](https://www.python.org/)&ensp;
-[<img alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">](https://dev.mysql.com/)&ensp;
 [<img alt="Java" width="35px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">](https://docs.oracle.com/en/java/)&ensp;
 [<img alt="R-Lang" width="35x" src="https://www.r-project.org/Rlogo.png">](https://www.r-project.org/)&ensp;
 [<img alt="Scikit Learn" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">](https://scikit-learn.org/stable/)&ensp;
